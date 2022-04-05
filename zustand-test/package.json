@@ -12,9 +12,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "airtable": "^0.11.3",
     "framer-motion": "^6.2.8",
-    "jotai": "^1.6.1",
     "next": "12.1.4",
     "react": "18.0.0",
     "react-dom": "18.0.0",
