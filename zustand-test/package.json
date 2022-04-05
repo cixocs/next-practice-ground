@@ -12,6 +12,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "clsx": "^1.1.1",
     "framer-motion": "^6.2.8",
     "next": "12.1.4",
     "react": "18.0.0",
@@ -25,7 +26,6 @@
     "@typescript-eslint/eslint-plugin": "^5.17.0",
     "@typescript-eslint/parser": "^5.17.0",
     "autoprefixer": "^10.4.4",
-    "clsx": "^1.1.1",
     "cssnano": "^5.1.7",
     "eslint": "8.12.0",
     "eslint-config-google": "^0.14.0",
